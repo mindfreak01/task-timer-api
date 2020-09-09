@@ -4,7 +4,7 @@
   "description": "Task timer to delete task after certain period of time",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "keywords": [
     "task-timer",
