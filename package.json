@@ -4,7 +4,7 @@
   "description": "Task timer to delete task after certain period of time",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "keywords": [
     "task-timer",
