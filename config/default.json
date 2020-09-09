@@ -1,0 +1,7 @@
+{
+  "Secrets": {
+    "db_name": "task-api",
+    "db_pass": "Sumanaman@2020"
+  },
+  "PORT": 3000
+}
